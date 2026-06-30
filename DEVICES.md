@@ -422,7 +422,8 @@
 - Milano ceiling fan
 - New Widetech WPF-16SW5 7-speed pedestal fan
 - NHZS fan speed switch
-- Novadigital ceiling fan with light
+- Novadigital ceiling fan with light
+
 - NP-DVL-01 ceiling fan with RGB+CW light
 - OmniBreeze DC2313R tower fan (4-speed and 5-speed models)
 - Orison Chanfok Neo ceiling fan with light
@@ -457,6 +458,7 @@
 - Treatlife DS02-F fan switch
 - Treatlife DS03 fan with dimmable light
 - Varin CFWI50 RGBCW ceiling fan
+- Varin VA-E002 ceiling fan with light
 - Varin VA-E003 ceiling fan with light
 - Windcalm ceiling fans with and without cool/warm white dimmable light
 - Yamazen Living AHX-ALD30 pedestal fan
